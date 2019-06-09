@@ -1,0 +1,28 @@
+#but {
+	
+	text-align:center;
+}
+
+button {
+	margin-top:20vh;
+
+	width:50%;
+	height:27vw;
+	font-size:7vw;
+	font-family:courier;
+	border-radius:20px;
+	cursor:pointer;
+	outline:none;
+	border-style:solid;
+	border-width:0px 0px 10px;
+	border-color:#474747;
+	background-color:#63ffcb;
+}
+
+button:active {
+
+	border-width:0px 0px 2px;
+	transform: translateY(4px);
+	transition:0.2s;
+
+}
