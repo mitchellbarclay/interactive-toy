@@ -92,7 +92,7 @@ function mousePressed() {
 }
 
 function setup() {
-  createCanvas(1024, 720);
+  createCanvas(windowWidth, windowWidth/2);
   song.loop();
 }
 
