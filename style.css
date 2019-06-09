@@ -1,14 +1,18 @@
 #but {
+
+	width:1024px;
+	height:720px;
 	
-	text-align:center;
+	
 }
 
 button {
-	margin-top:20vh;
+	margin-top:200px;
+	margin-left:411px;
 
-	width:50%;
-	height:27vw;
-	font-size:7vw;
+	width:200px;
+	height:140px;
+	font-size:28px;
 	font-family:courier;
 	border-radius:20px;
 	cursor:pointer;
